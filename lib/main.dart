@@ -14,10 +14,12 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: Center(
-        child: Text(
-          "The Flutter Way",
-          style: Theme.of(context).textTheme.titleLarge,
+      home: Scaffold(
+        body: Center(
+          child: Text(
+            "The Flutter Way",
+            style: Theme.of(context).textTheme.titleLarge,
+          ),
         ),
       ),
     );
