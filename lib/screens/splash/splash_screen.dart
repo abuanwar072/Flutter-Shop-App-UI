@@ -44,20 +44,20 @@ class SplashScreen extends StatelessWidget {
                       color: Colors.white,
                     ),
                   ),
-                  Spacer(flex: 1),
+                  const Spacer(flex: 1),
                   Text(
                     'Hedon is available to complete your needs but can save your money too',
                     style: TextStyle(
                       color: Colors.white.withOpacity(0.8),
                     ),
                   ),
-                  Spacer(flex: 2),
+                  const Spacer(flex: 2),
                   ElevatedButton(
                     onPressed: () {
                       Navigator.push(
                         context,
                         MaterialPageRoute(
-                          builder: (context) => LoginScreen(),
+                          builder: (context) => const LoginScreen(),
                         ),
                       );
                     },

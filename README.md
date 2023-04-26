@@ -1,16 +1,15 @@
-# shop_ui_with_ai
+# Flutter Shop App UI build with ChatGPT
 
-A new Flutter project.
+**Packages we are using:**
 
-## Getting Started
+- flutter_svg: [link](https://pub.dev/packages/flutter_svg)
 
-This project is a starting point for a Flutter application.
+## [Watch it on YouTube](https://youtu.be/oLFQyUgVw_E)
 
-A few resources to get you started if this is your first Flutter project:
+Welcome to My AI-Driven App Building Series: Crafting a Flutter App with ChatGPT While Saving Time and Following Best Practices!
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Flutter Shop App - Final UI
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Preview](/gif.gif)
+
+![App UI](/ui.png)
